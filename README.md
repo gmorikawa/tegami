@@ -22,3 +22,9 @@ This person, likes to keep emails organized, because, even if he does not use ve
 The core of the application will be the email server.
 
 * [Elixir](https://elixir-lang.org/);
+
+## Study Resource
+
+* [What is the Simple Mail Transfer Protocol (SMTP)? | Cloudflare](https://www.cloudflare.com/learning/email-security/what-is-smtp/);
+* [RFC 5321: Simple Mail Transfer Protocol](https://www.rfc-editor.org/rfc/rfc5321);
+* [Simple Mail Transfer Protocol (SMTP) Explained [2025]](https://mailtrap.io/blog/smtp/);
